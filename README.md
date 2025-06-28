@@ -45,7 +45,7 @@ TechWise offers:
 
 ---
 
-## 👨‍💻 Authors
+## 👨‍💻 Software Developers:
 
 | Name               | LinkedIn | GitHub |
 |--------------------|----------|--------|
