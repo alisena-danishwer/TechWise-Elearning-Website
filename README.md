@@ -10,7 +10,8 @@ TechWise provides access to free, high-quality courses in subjects like **Softwa
 
 ## 📸 Screenshot
 
-![TechWise Screenshot](https://github.com/user-attachments/assets/d51ca383-199d-4915-8956-968021464445)
+![image](https://github.com/user-attachments/assets/ce24933e-2037-41e5-8317-88d224c24d35)
+
 
 ---
 
