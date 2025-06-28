@@ -163,8 +163,16 @@
 }
 
 .navbar-toggler {
+    position: absolute;
+    top: 15px;        /* Controls vertical spacing from the top */
+    right: 11px;      /* Pushes it to the right edge */
+    z-index: 1050;    /* Keeps it above content */
+    background-color: white;
     border: 2px solid #fb873f;
+    padding: 6px 10px;
+    border-radius: 4px;
 }
+
 
 @media (min-width: 992px) {
     .navbar .nav-item .dropdown-menu {
@@ -578,4 +586,11 @@
     margin-right: 0;
     padding-right: 0;
     border-right: none;
+}
+
+/* 🔥 Add this below everything */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
