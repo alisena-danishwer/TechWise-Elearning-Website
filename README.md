@@ -50,10 +50,10 @@ TechWise offers:
 | Name               | LinkedIn | GitHub |
 |--------------------|----------|--------|
 | **Ali Sena Danishwer** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ali-sena-danishwer-346a88280/) | [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/alisena-danishwer) |
-| **Hanna Altaha**       | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](#) | [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](#) |
-| **Habiba Hassan**      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/hassanhabiba/) | [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/hbx1234) |
+| **Hanaa Altaha**       | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](#) | [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](#) |
+| **Habiba Hassan Nur Hassan**      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/hassanhabiba/) | [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/hbx1234) |
 | **Md Rashidul Islam**  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mrirashid/) | [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/mrirashid) |
-| **Sidy Yaya Toure**  | [![LinkedIn](#) | [![GitHub](#) |
+| **Sidy Yaya Toure**   | [![LinkedIn](#)](#) | [![GitHub](#)]
 
 ---
 
